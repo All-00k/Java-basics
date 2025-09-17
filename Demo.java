@@ -34,7 +34,7 @@ public class Demo{
         // }
 
         for(Students stud: students)
-        {
+        {       
             System.out.println(stud.name + ":" + stud.marks);
         }
 
